@@ -1,8 +1,8 @@
 # RFQ Vacuum Cube Controller
 * <a href="https://github.com/bl-mirrotron/mirrotron-rfq-vacuum-cube" target="_blank">Source code</a>
-* [RFQ Vacuum System](https://docs.bl-mirrotron.com/mirrotron-rfq-vacuum-tray)
-* [RFQ Vacuum system overview](https://docs.bl-mirrotron.com/#vacuum-system)
-* [Control system overview](https://docs.bl-mirrotron.com/)
+* [RFQ Vacuum System](https://bl-mirrotron.github.io/mirrotron-rfq-vacuum-tray)
+* [RFQ Vacuum system overview](https://bl-mirrotron.github.io/#vacuum-system)
+* [Control system overview](https://bl-mirrotron.github.io/)
 
 The RFQ has two identical vacuum systems mounted on either side of the RFQ as shown in Figure 1. The RFQ vacuum system cube controller is responsible for:
 * Read vacuum gauge pressures
